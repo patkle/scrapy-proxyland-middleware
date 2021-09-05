@@ -1,5 +1,5 @@
 # scrapy-proxyland-middleware
-[![scrapy-proxyland-middleware on pypi](https://img.shields.io/pypi/v/scrapy-proxyland-middleware?color=blue)](https://pypi.org/project/scrapy-proxyland-middleware/)
+[![scrapy-proxyland-middleware on pypi](https://img.shields.io/pypi/v/scrapy-proxyland-middleware?color=blue)](https://pypi.org/project/scrapy-proxyland-middleware/)  
 This middleware lets you use [Proxyland](https://proxyland.io) for every request you process with Scrapy.
 
 ## Settings
