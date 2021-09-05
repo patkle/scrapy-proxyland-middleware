@@ -12,7 +12,7 @@ PROXYLAND = {
 }
 ```
 
-You need to also enable ProxylandMiddleware as well as Scrapy's HttpProxyMiddleware. 
+You need to also enable ScrapyProxylandMiddleware as well as Scrapy's HttpProxyMiddleware. 
 
 ```python
 DOWNLOADER_MIDDLEWARES = {
